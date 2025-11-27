@@ -102,9 +102,3 @@ Open the browser link Streamlit prints (usually http://localhost:8501).
 This project has no license file in the repository. If you want to make it open source, consider adding a `LICENSE` (for example MIT or Apache 2.0). Example: add an `MIT` file at the project root.
 
 ---
-
-If you'd like, I can also:
-- Add a short `README` badge and a `LICENSE` file.
-- Create a small `run_local.ps1` script that sets up the venv and runs Streamlit (PowerShell-friendly).
-
-Tell me which extras you want and I'll add them.
